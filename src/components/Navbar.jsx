@@ -19,6 +19,7 @@ const Navbar = () => {
             }}  
           >
             <img src= {logo} alt="Logo"  className="w-9 h-9 object-contain"/>
+            <p className="text-white text-[18px] font-bol cursor-pointer">Adrian <spam className="sm:block hidden">| FullStack Developer</spam></p> 
           </Link>
         </div>
     </nav>
