@@ -13,6 +13,8 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
+// ExperienceCard in Experience
+// ExperienceCard handles more photos and content
 
 const ExperienceCard = ({ experience }) => {
   return (
