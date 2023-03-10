@@ -1,6 +1,6 @@
 import React from "react";
 
-const Feedbaks = () => {
+const Feedbacks = () => {
   return (
     <div>
       Feedbaks
@@ -8,4 +8,4 @@ const Feedbaks = () => {
   )
 }
 
-export default Feedbaks
+export default Feedbacks
